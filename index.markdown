@@ -6,3 +6,5 @@ layout: default
 ---
 
 Hello world
+
+[Test page](./_posts/2020-11-07-welcome-to-jekyll.html).
